@@ -1,4 +1,4 @@
-Olá,sou Pedro Tavares!
+Olá, sou Pedro Tavares!
 
 - 😃 Estou estudando T-SQL
 - 🤔 Qualquer ajuda em T-SQL é sempre bem-vinda 
