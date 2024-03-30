@@ -1,7 +1,5 @@
 Olá,sou Pedro Tavares!
 
-- 🔭 Atualmente estou procurando um emprego
-- 😃 Estou estudando TypeScript e PHP
-- 🤔 Qualquer ajuda em TypeScript,PHP e outras linguagens é muito bem vinda
-- 💬 Pergunte-me sobre Python,HTML,CSS,JavaScript e PHP
-
+- 😃 Estou estudando T-SQL
+- 🤔 Qualquer ajuda em T-SQL é sempre bem-vinda 
+- 💬 Pergunte-me sobre Python, HTML, CSS, JavaScript, PHP e T-SQL
