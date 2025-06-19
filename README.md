@@ -1,5 +1,5 @@
 Olá, sou o Pedro Tavares!
 
-- 😃 Estou estudando SQL Server
+- 😃 Sou DBA SQL Server 
 - 🤔 Qualquer ajuda em SQL Server é sempre bem-vinda 
-- 💬 Pergunte-me sobre Python, HTML, CSS, JavaScript, PHP e SQL Server
+- 💬 Pergunte-me sobre SQL Server, Python, HTML, CSS, JavaScript e PHP 
